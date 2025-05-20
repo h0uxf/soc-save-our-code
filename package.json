@@ -1,0 +1,16 @@
+{
+  "name": "soc---save-our-code",
+  "version": "1.0.0",
+  "description": "Project for the Secure Coding module, Diploma in Information Technology, Singapore Polytechnic, AY25-26",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "VERUM",
+  "license": "ISC",
+  "dependencies": {
+    "env": "^0.0.2"
+  }
+}
